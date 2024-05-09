@@ -86,8 +86,14 @@ Figma
 </div>
 ```
 ## OUTPUT:
+### 1st Slide
+![Screenshot 2024-05-09 132347](https://github.com/Narasimhan05/Figma/assets/132819871/c8e15d81-d16c-44e3-8ab8-15f394ddca4f)
 
-![Screenshot 2024-05-09 132629](https://github.com/Narasimhan05/Figma/assets/132819871/8c2768f4-e0d3-4934-9f3f-1e5a352e1765)
+### 2nd Slide
+![Screenshot 2024-05-09 132403](https://github.com/Narasimhan05/Figma/assets/132819871/4fb5b1df-8b1e-46fd-ae75-fd3badae1678)
+
+### 3rd Slide
+![Screenshot 2024-05-09 132411](https://github.com/Narasimhan05/Figma/assets/132819871/6d46053a-6710-4ca0-8c2d-ebf64c72e93e)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
