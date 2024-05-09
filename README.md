@@ -90,10 +90,10 @@ Figma
 ![Screenshot 2024-05-09 132347](https://github.com/Narasimhan05/Figma/assets/132819871/c8e15d81-d16c-44e3-8ab8-15f394ddca4f)
 
 ### 2nd Slide
-![Screenshot 2024-05-09 132403](https://github.com/Narasimhan05/Figma/assets/132819871/4fb5b1df-8b1e-46fd-ae75-fd3badae1678)
+![Screenshot 2024-05-09 133940](https://github.com/Narasimhan05/Figma/assets/132819871/42688f1d-8383-41e3-bc5c-6803d8e96f6c)
 
 ### 3rd Slide
-![Screenshot 2024-05-09 132411](https://github.com/Narasimhan05/Figma/assets/132819871/6d46053a-6710-4ca0-8c2d-ebf64c72e93e)
+![Screenshot 2024-05-09 134014](https://github.com/Narasimhan05/Figma/assets/132819871/86828b46-2395-4bf7-aace-015bce09932b)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
